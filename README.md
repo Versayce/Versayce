@@ -2,7 +2,7 @@
 
 # Links
 <div>
-  <a href="https://www.linkedin.com/in/fullstackcastro/">
+  <a href="https://www.linkedin.com/in/fullstackcastro/" align="center">
     <img src="https://skillicons.dev/icons?i=linkedin" height="115" />
   </a>
 </div>
