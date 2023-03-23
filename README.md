@@ -15,7 +15,7 @@
 </div>
 
 <div href="https://github.com/versayce/github-readme-stats" align="center">
-  <img width="400" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
 </div>
 <!--
 **Versayce/versayce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
