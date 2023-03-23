@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/versayce/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=versayce&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=versayce&show_icons=true&theme=radical" />
 </a>
 <div align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=versayce&show_icons=true&theme=radical">
