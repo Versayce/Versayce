@@ -4,6 +4,7 @@
 
 <div align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=versayce&show_icons=true&theme=radical">
+  <img width="460" height="300" src="[https://github-readme-stats.vercel.app/api?username=versayce&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=versayce&theme=radical)](https://github.com/anuraghazra/github-readme-stats)">
 </div>
 <!--
 **Versayce/versayce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
