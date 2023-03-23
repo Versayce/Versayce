@@ -5,6 +5,10 @@
   <a href="https://www.linkedin.com/in/fullstackcastro/" align="center">
     <img src="https://skillicons.dev/icons?i=linkedin" height="115" />
   </a>
+  
+  <a href="https://wellfound.com/u/alex-castro-19" align="center">
+    <img src="https://skillicons.dev/icons?i=angellist" height="115" />
+  </a>
 </div>
 
 # Skills
