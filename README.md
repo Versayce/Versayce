@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,React,Python,Sequelize,Flask,SequelAlchemy" />
+  </a>
+</p>
+
 <div href="https://github.com/versayce/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=versayce&show_icons=true&theme=radical" />
 </div>
