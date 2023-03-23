@@ -3,7 +3,7 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,React,Python,Sequelize,Flask,SequelAlchemy" />
+    <img src="https://skillicons.dev/icons?i=git,react,python,sequelize,flask,sequelAlchemy" />
   </a>
 </p>
 
