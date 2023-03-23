@@ -7,7 +7,7 @@
   </a>
   
   <a href="https://wellfound.com/u/alex-castro-19" align="center">
-    <img src="https://skillicons.dev/icons?i=angellist" height="115" />
+    <img src="https://skillicons.dev/icons?i=wellfound" height="115" />
   </a>
 </div>
 
