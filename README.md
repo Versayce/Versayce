@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/versayce/github-readme-stats">
+<a href="https://github.com/versayce/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=versayce&show_icons=true&theme=radical" />
 </a>
 <div align="center">
