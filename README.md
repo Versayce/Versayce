@@ -3,8 +3,8 @@
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,javascript,python" height="110" />
-    <img src="https://skillicons.dev/icons?i=ai,ps,sequelize,flask" height="110" />
+    <img src="https://skillicons.dev/icons?i=git,react,javascript,python" height="115" />
+    <img src="https://skillicons.dev/icons?i=ai,ps,sequelize,flask" height="115" />
   </a>
 </p>
 
