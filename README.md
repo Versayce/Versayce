@@ -3,7 +3,7 @@
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,javascript,python" style="margin-bottom: 100px;" />
+    <img src="https://skillicons.dev/icons?i=git,react,javascript,python" height="160" />
     <img src="https://skillicons.dev/icons?i=ai,ps,sequelize,flask" height="160" />
   </a>
 </p>
