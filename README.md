@@ -3,9 +3,11 @@
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,javascript,ai,ps,python,sequelize,flask" height="260"/>
+    <img src="https://skillicons.dev/icons?i=git,react,javascript,python" height="260"/>
+    <img src="https://skillicons.dev/icons?i=ai,ps,sequelize,flask" height="260"/>
   </a>
 </p>
+
 
 ### Stats
 <div href="https://github.com/versayce/github-readme-stats" align="center">
