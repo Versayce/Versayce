@@ -11,7 +11,7 @@
 
 # Stats
 <div href="https://github.com/versayce/github-readme-stats" align="center">
-  <img width="400" height="280" src="https://github-readme-stats.vercel.app/api?username=versayce&show_icons=true&theme=radical" />
+  <img width="400" height="380" src="https://github-readme-stats.vercel.app/api?username=versayce&show_icons=true&theme=radical" />
 </div>
 
 <div href="https://github.com/versayce/github-readme-stats" align="center">
