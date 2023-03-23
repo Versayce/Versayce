@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+# Links
+<div>
+  <a href="https://www.linkedin.com/in/fullstackcastro/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="115" />
+  </a>
+</div>
+
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
@@ -7,7 +14,6 @@
     <img src="https://skillicons.dev/icons?i=ai,ps,sequelize,flask" height="115" />
   </a>
 </p>
-
 
 # Stats
 <div href="https://github.com/versayce/github-readme-stats" align="center">
@@ -17,6 +23,7 @@
 <div href="https://github.com/versayce/github-readme-stats" align="center">
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
 </div>
+
 <!--
 **Versayce/versayce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
