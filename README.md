@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### Skills
-<p align="center" height="460">
-  <a href="https://skillicons.dev">
+<p align="center">
+  <a href="https://skillicons.dev" height="460">
     <img src="https://skillicons.dev/icons?i=git,react,javascript,ai,ps,python,sequelize,flask" />
   </a>
 </p>
