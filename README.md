@@ -14,8 +14,8 @@
 # Skills
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,javascript,python,nodejs" height="115" />
-    <img src="https://skillicons.dev/icons?i=ai,ps,sequelize,flask,mysql" height="115" />
+    <img src="https://skillicons.dev/icons?i=git,react,javascript,ts,python,nodejs" height="115" />
+    <img src="https://skillicons.dev/icons?i=ai,ps,sequelize,flask,mysql,postgres" height="115" />
   </a>
 </div>
 
