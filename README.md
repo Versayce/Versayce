@@ -1,5 +1,7 @@
+<a align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+There!;Check+out+my+profile:" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hey+There!;Check+out+my+profile:" />
 ## Hi there 👋
 I'm Alex, a Frontend Software Developer
 
