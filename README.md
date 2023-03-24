@@ -16,6 +16,9 @@ I'm Alex, a Frontend Software Developer
   </a>
 </div>
 
+<!--START_SHOW_TOTAL_CODE_TIME:waka-->
+<!--END_SHOW_TOTAL_CODE_TIME:waka-->
+
 # Skills
 <div align="center">
   <a href="https://skillicons.dev">
