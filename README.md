@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ## Hi there 👋
 I'm Alex, a Frontend Software Developer
 
@@ -15,9 +16,6 @@ I'm Alex, a Frontend Software Developer
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
-<!--START_SHOW_TOTAL_CODE_TIME:waka-->
-<!--END_SHOW_TOTAL_CODE_TIME:waka-->
 
 # Skills
 <div align="center">
