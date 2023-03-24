@@ -4,15 +4,21 @@
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 
-<div style="display: flex; flex-direction: row;">
+<div align="center">
   <h3>Contact Me</h3>
   <a href="mailto: acastr13@asu.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
   <a href="https://www.linkedin.com/in/fullstackcastro/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+</div>
+
+<div align="center">
+  <div>testing1</div>
+  <div>testing2</div>
+  <div>testing3</div>
 </div>
 
 # Skills
