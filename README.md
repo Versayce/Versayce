@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# Links
 <div align="center">
   <h3>Contact Me</h3>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
