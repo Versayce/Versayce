@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<div align="center">
+<div style="display: flex; flex-direction: column;">
   <div>testing1</div>
   <div>testing2</div>
   <div>testing3</div>
