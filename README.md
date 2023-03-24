@@ -1,6 +1,6 @@
-<a align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey+There!;Check+out+my+profile:" />
-</a>
+</div>
 
 ## Hi there 👋
 I'm Alex, a Frontend Software Developer
