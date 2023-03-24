@@ -15,12 +15,6 @@
   </a>
 </div>
 
-<div style="display: flex; flex-direction: row;">
-  <div>testing1</div>
-  <div>testing2</div>
-  <div>testing3</div>
-</div>
-
 # Skills
 <div align="center">
   <a href="https://skillicons.dev">
