@@ -2,13 +2,7 @@
 
 # Links
 <div align="center">
-  <a href="https://www.linkedin.com/in/fullstackcastro/" align="center">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="115" />
-  </a>
-  
-  <a href="https://wellfound.com/u/alex-castro-19" align="center">
-    <img src="" height="115" />
-  </a>
+  <h1>Contact Me</h1>
 </div>
 
 # Skills
