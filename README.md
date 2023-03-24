@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+There!;Check+out+my+profile:?width=300" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+There!;Check+out+my+profile:?width=100" />
 </div>
 
 ## Hi there 👋
