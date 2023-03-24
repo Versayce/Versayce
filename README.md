@@ -2,7 +2,8 @@
 
 # Links
 <div align="center">
-  <h1>Contact Me</h1>
+  <h3>Contact Me</h3>
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </div>
 
 # Skills
