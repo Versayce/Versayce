@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: row;">
   <h3>Contact Me</h3>
   <a href="mailto: acastr13@asu.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
