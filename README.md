@@ -18,6 +18,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,react,javascript,ts,python,nodejs" height="115" />
     <img src="https://skillicons.dev/icons?i=ai,ps,sequelize,flask,mysql,postgres" height="115" />
+    <img src="https://skillicons.dev/icons?i=c" height="115" />
   </a>
 </div>
 
