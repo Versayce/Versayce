@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>Contact Me</h3>
-  <a href="mailto: acastr13@asu.edu">
+  <a href="mailto: castro.alex@asu.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
