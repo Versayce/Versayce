@@ -15,7 +15,7 @@
 
 # Certifications
 <div align="center">
-  <a href="https://badgr.com/public/assertions/-lL3gWOlR8uPyQoPiqj7Hg">
+  <a href="https://badgr.com/public/assertions/-lL3gWOlR8uPyQoPiqj7Hg?identity__email=acastro166%40gmail.com">
     <img src="https://api.badgr.io/public/assertions/-lL3gWOlR8uPyQoPiqj7Hg/image" 
          alt="Web Application Development Badge" width="280"/>
   </a>
