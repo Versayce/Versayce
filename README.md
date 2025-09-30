@@ -15,7 +15,7 @@
 
 # Certifications
 <div align="center">
-  <a href="https://badgr.com/backpack/badges/68cc9814b5ba1416bbc21048?navigationSource=backpack">
+  <a href="https://badgr.com/public/assertions/-lL3gWOlR8uPyQoPiqj7Hg">
     <img src="https://api.badgr.io/public/assertions/-lL3gWOlR8uPyQoPiqj7Hg/image" 
          alt="Web Application Development Badge" width="280"/>
   </a>
