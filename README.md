@@ -2,6 +2,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&color=07FFF0&center=true&vCenter=true&repeat=true&multiline=true&width=700&height=90&lines=Hey+There+%F0%9F%91%8B;I'm+Alex%2C+a+Frontend+Software+Developer" alt="Typing SVG" />
 </div>
 
+# Certifications
+<div align="center">
+  <a href="https://api.badgr.io/public/assertions/-lL3gWOlR8uPyQoPiqj7Hg">
+    <img src="https://api.badgr.io/public/assertions/-lL3gWOlR8uPyQoPiqj7Hg/image" 
+         alt="Web Application Development Badge" width="150"/>
+  </a>
+  <p>
+    <i>Verified Web Application Development Badge</i>
+  </p>
+</div>
+
+
 <div align="center">
   <h3>Contact Me</h3>
   <a href="mailto: castro.alex@asu.edu">
