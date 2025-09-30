@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://api.badgr.io/public/assertions/-lL3gWOlR8uPyQoPiqj7Hg">
     <img src="https://api.badgr.io/public/assertions/-lL3gWOlR8uPyQoPiqj7Hg/image" 
-         alt="Web Application Development Badge" width="150"/>
+         alt="Web Application Development Badge" width="200"/>
   </a>
   <p>
     <i>Verified Web Application Development Badge</i>
